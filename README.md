@@ -1,2 +1,2 @@
 # First_try
-Pour voir, avec une image
+Pour voir, sans image
